@@ -8,6 +8,7 @@ public class MyClass {
         object2.run();
         Thread thread=new Thread();
         thread.start();
+        System.out.println("tamrin anjam shod.");
 
 
 
